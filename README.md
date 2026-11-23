@@ -2,7 +2,7 @@
 
 Write-up de **Giancarlo Guarda** — bypass de autenticación en OpenSSH sobre `musl libc`
 sin PAM — fundamentos teóricos y análisis forense del reto [Sherlock: sshole](https://tryhackme.com)
-de TryHackMe.
+de Hack the box.
 
 > **Estado:** Sherlock resuelto. Ver [`evidencias/12-sherlock-resuelto.png`](./evidencias/12-sherlock-resuelto.png).
 
